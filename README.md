@@ -8,8 +8,8 @@ const Zim = {
             js: ["React"],
             css: ["bootstrap", "sass"]
         },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "SQL Server", "oracle"],
+        backEnd: ["loading..."],
+  }
  challenge: "I am doing the #Javascript30 challenge 
              focused on Javascript",
 }
