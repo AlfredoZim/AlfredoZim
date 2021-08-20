@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Alfredo 👨‍💻
+```js
+const Zim = {
+  pronouns: "He" | "him",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React,Jest],
+ challenge: "I am doing the #Javascript30 challenge focused on Javascript"
+}
+```
 
 <!--
 **AlfredoZim/AlfredoZim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
