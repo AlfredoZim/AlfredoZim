@@ -2,13 +2,16 @@
 ```js
 const Zim = {
   pronouns: "He" | "him",
-  code: [Javascript, Python, Java],
+  code: [Javascript, Python, Java, C#],
   technologies: {
         frontEnd: {
             js: ["React"],
             css: ["bootstrap", "sass"]
         },
-        backEnd: ["loading..."],
+        backEnd: {
+            .Net_Framework: ["MVC","Entity","LinQ"],
+            DB: ["SQL Server"]
+        },
   }
  challenge: "I am doing the #Javascript30 challenge 
              focused on Javascript",
