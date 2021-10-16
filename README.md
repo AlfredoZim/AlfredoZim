@@ -11,7 +11,7 @@ const Zim = {
         BackEnd: {
             .Net: ["MVC","Entity","LinQ"],
             Java: ["Spring","Hibernate"],
-            DB: ["SQL Server"]
+            DB: ["SQL Server","Oracle"]
         },
         DataScience: {
             Python: ["Pandas","matplotlib"]
