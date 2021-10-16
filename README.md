@@ -9,7 +9,7 @@ const Zim = {
             css: ["bootstrap", "sass"]
         },
         BackEnd: {
-            .Net: ["MVC","Entity","LinQ"],
+            Net: ["Entity","LinQ"],
             Java: ["Spring","Hibernate"],
             DB: ["SQL Server","Oracle"]
         },
